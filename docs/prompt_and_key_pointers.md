@@ -384,3 +384,6 @@ docs/prompt_and_key_pointers.md
 You now have a complete, reusable guide for using AI throughout any systematic review.  
 
 **Next step:** Let me know if you want help creating the actual `paper_final.md` using the report and tables you generated, or if you need a PRISMA flow diagram template.
+## Automated Updates (v2.0 Reproducibility)
+- **Reproducibility PR Prompt**: *"To get this repository from Almost Ready to Model Open-Science Repository, complete these in order: Fix .gitignore, Pin Dependencies, Add REPRODUCIBILITY.md, Add LICENSE, Add GitHub Actions workflow."*
+- **Atomic Commits**: Ask the AI to make small, single-purpose commits (atomic commits) instead of one giant messy commit. It keeps the project history perfectly clean.

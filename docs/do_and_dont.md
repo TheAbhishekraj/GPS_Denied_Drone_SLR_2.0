@@ -37,3 +37,8 @@
 | **Don't assume all papers have the same format** | Handle missing data gracefully in scripts. |
 | **Don't forget to update the paper when the dataset changes** | Keep manuscript and data in sync. |
 
+
+## Automated Updates (v2.0 Reproducibility)
+- **DO** pin your dependencies in `requirements.txt` using exact versions (e.g., `pandas==3.0.3`) so the project never breaks in the future.
+- **DO** use a strict `.gitignore` to block messy system files (like `.venv`, `__pycache__`, and `.vscode`).
+- **DON'T** leave multiple READMEs floating around. Have one canonical `README.md` at the root.

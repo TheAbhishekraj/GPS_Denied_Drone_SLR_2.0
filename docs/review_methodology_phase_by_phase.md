@@ -73,3 +73,7 @@ This guide outlines the general phases of conducting a systematic literature rev
 ---
 
 *This methodology is adapted from PRISMA guidelines and best practices in systematic reviews.*
+### Phase 6: Open-Science & Reproducibility
+1. **Pipeline Scripting**: Create a single `run_all.py` script that acts as a one-click button to run the entire data cleaning, analysis, and report generation process.
+2. **Documentation**: Add a `REPRODUCIBILITY.md` file explaining exactly how someone else can run your code.
+3. **Continuous Integration**: Use GitHub Actions (`.github/workflows/reproducibility.yml`) to automatically test your code every time you push it online.
