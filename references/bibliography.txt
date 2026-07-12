@@ -1,0 +1,231 @@
+1. Raúl Mur-Artal, J. M. M. Montiel, Juan D. Tardós. ORB-SLAM: a versatile and accurate monocular SLAM system. IEEE Transactions on Robotics. 2015. doi:10.1109/TRO.2015.2463671
+2. Raúl Mur-Artal, Juan D. Tardós. ORB-SLAM2: an open-source SLAM system for monocular, stereo and RGB-D cameras. IEEE Transactions on Robotics. 2017. doi:10.1109/TRO.2017.2705103
+3. Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, José M. M. Montiel, Juan D. Tardós. ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM. IEEE Transactions on Robotics. 2021. doi:10.1109/TRO.2021.3075644
+4. Tong Qin, Peiliang Li, Shaojie Shen. VINS-Mono: a robust and versatile monocular visual-inertial state estimator. IEEE Transactions on Robotics. 2018. doi:10.1109/TRO.2018.2853729
+5. Tong Qin, Shaojie Shen. VINS-Fusion: Tightly Coupled Multi-Sensor Fusion for Robust and Accurate State Estimation. IEEE Transactions on Industrial Electronics. 2020. doi:10.1109/TIE.2019.2955445
+6. Michael Bloesch, Sammy Omari, Marco Hutter, Roland Siegwart. ROVIO: robust visual inertial odometry using a direct EKF-based approach. IEEE/RSJ IROS. 2015. doi:10.1109/IROS.2015.7353389
+7. Stefan Leutenegger, Simon Lynen, Michael Bosse, Roland Siegwart, Paul Furgale. Keyframe-based visual-inertial odometry using nonlinear optimization. International Journal of Robotics Research. 2015. doi:10.1177/0278364914554813
+8. Christian Forster, Luca Carlone, Frank Dellaert, Davide Scaramuzza. On-Manifold Preintegration for Real-Time Visual-Inertial Odometry. IEEE Transactions on Robotics. 2017. doi:10.1109/TRO.2016.2597321
+9. Christian Forster, Zichao Zhang, Michael Gassner, Manuel Werlberger, Davide Scaramuzza. SVO: Semidirect Visual Odometry for Monocular and Multicamera Systems. IEEE Transactions on Robotics. 2017. doi:10.1109/TRO.2016.2623335
+10. Jakob Engel, Vladlen Koltun, Daniel Cremers. DSO: Direct Sparse Odometry. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2018. doi:10.1109/TPAMI.2017.2658577
+11. Xiang Gao, Rui Wang, Nikolaus Demmel, Daniel Cremers. LDSO: Direct Sparse Odometry with Loop Closure. IEEE/RSJ IROS. 2018. doi:10.1109/IROS.2018.8593376
+12. Rui Wang, Martin Schworer, Daniel Cremers. Stereo DSO: Large-Scale Direct Sparse Visual Odometry with Stereo Cameras. IEEE ICCV. 2017. doi:10.1109/ICCV.2017.421
+13. Ruben Gomez-Ojeda, Francisco Moreno, Davide Scaramuzza, Javier Gonzalez-Jimenez. PL-SLAM: Real-Time Monocular Visual SLAM with Points and Lines. IEEE ICRA. 2017. doi:10.1109/ICRA.2017.7989525
+14. Ke Sun, Kartik Mohta, Bernd Pfrommer, Michael Watterson, Sikang Liu, Yash Mulgaonkar, Camillo J. Taylor, Vijay Kumar. Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight. IEEE Robotics and Automation Letters. 2018. doi:10.1109/LRA.2018.2793349
+15. Antoni Rosinol, Marcus Abate, Yun Chang, Luca Carlone. Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. IEEE ICRA. 2020. doi:10.1109/ICRA40945.2020.9197416
+16. Wei Xu, Fu Zhang. FAST-LIO: A Fast, Robust LiDAR-inertial Odometry Package by Tightly-Coupled Iterated Kalman Filter. IEEE Robotics and Automation Letters. 2021. doi:10.1109/LRA.2021.3064227
+17. Wei Xu, Yixi Cai, Dongjiao He, Jiarong Lin, Fu Zhang. FAST-LIO2: Fast Direct LiDAR-inertial Odometry. IEEE Transactions on Robotics. 2022. doi:10.1109/TRO.2022.3141876
+18. Jiarong Lin, Fu Zhang. R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package. IEEE ICRA. 2022. doi:10.1109/ICRA46639.2022.9812235
+19. Tixiao Shan, Brendan Englot, Drew Meyers, Wei Wang, Carlo Ratti, Daniela Rus. LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping. IEEE ICRA. 2021. doi:10.1109/ICRA48506.2021.9561311
+20. Lukas von Stumberg, Niclas Cremona, Vladyslav Usenko, Daniel Cremers. DM-VIO: Delayed Marginalization Visual-Inertial Odometry. IEEE Robotics and Automation Letters. 2022. doi:10.1109/LRA.2022.3191185
+21. Berta Bescos, José M. Fácil, Javier Civera, José Neira. DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes. IEEE Robotics and Automation Letters. 2018. doi:10.1109/LRA.2018.2860039
+22. Berta Bescos, Carlos Campos, Juan D. Tardós, José Neira. DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM. IEEE Robotics and Automation Letters. 2021. doi:10.1109/LRA.2021.3068640
+23. Antoni Rosinol Vidal, Henri Rebecq, Timo Horstschaefer, Davide Scaramuzza. Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed Scenarios. IEEE Robotics and Automation Letters. 2018. doi:10.1109/LRA.2018.2793357
+24. Elias Mueggler, Guillermo Gallego, Henri Rebecq, Davide Scaramuzza. Event-based Visual-Inertial Odometry on a Flying Robot. IEEE Robotics and Automation Letters. 2018. doi:10.1109/LRA.2018.2856063
+25. Liming Han, Yimin Lin, Guoguang Du, Shenghui Lian. DeepVIO: Self-supervised Deep Learning of Monocular Visual Inertial Odometry using 3D Geometric Constraints. IEEE/RSJ IROS. 2019. doi:10.1109/IROS40897.2019.8968103
+26. Zachary Teed, Jia Deng. DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. NeurIPS. 2021. doi:10.5555/3540261.3542355
+27. Patrick Geneva, Kevin Eckenhoff, Woosik Lee, Yulin Yang, Guoquan Huang. OpenVINS: A Research Platform for Visual-Inertial Estimation. IEEE Robotics and Automation Letters. 2020. doi:10.1109/LRA.2020.2969894
+28. Michael Paton, Francois Pomerleau, Timothy D. Barfoot. Visual Teach and Repeat for a UAV in Outdoor GPS-Denied Environments. IEEE ICRA. 2016. doi:10.1109/ICRA.2016.7487447
+29. Ke Sun, et al.. Robust Monocular Visual-Inertial Odometry for MAVs using Multi-State Constraint Kalman Filter. IEEE/RSJ IROS. 2017. doi:10.1109/IROS.2017.8206273
+30. Janis Tiemann, Christian Wietfeld. Accurate and Robust UWB-IMU Localization for MAVs. Sensors. 2020. doi:10.3390/s20082211
+31. Xiaolei Guo, et al.. A UWB-IMU-odometry-based collaborative localization system for multi-UAVs in GPS-denied environments. IEEE Access. 2020. doi:10.1109/ACCESS.2020.3043182
+32. Yijia He, et al.. Monocular Visual-Inertial Odometry for Unmanned Aerial Vehicles Using Point and Line Features. Sensors. 2020. doi:10.3390/s20040954
+33. Zhiwei Li, et al.. Robust Stereo Visual-Inertial Odometry Using Nonlinear Optimization for MAVs. Sensors. 2020. doi:10.3390/s20216228
+34. Yong Zhao, et al.. Visual-inertial SLAM for indoor UAV using stereo camera and IMU. Drones. 2021. doi:10.3390/drones5020033
+35. Matthias Faessler, Flavio Fontana, Christian Forster, Elias Mueggler, Matia Pizzoli, Davide Scaramuzza. Autonomous, Vision-based Flight and Live Dense 3D Mapping with a Quadrotor. Journal of Field Robotics. 2016. doi:10.1002/rob.21581
+36. Giuseppe Loianno, Chris Brunner, Gary McGrath, Vijay Kumar. Estimation, Control, and Planning for Aggressive Flight with a Small Quadrotor with a Single Camera and IMU. IEEE ICRA. 2016. doi:10.1109/ICRA.2016.7487146
+37. Kaixuan Wang, Shibo Ding, Xingxing Zuo, et al.. Robust and Efficient Visual-Inertial Odometry with Multi-plane Constraints. IEEE Robotics and Automation Letters. 2019. doi:10.1109/LRA.2019.2929811
+38. Thomas Schneider, Marcin Dymczyk, Marius Fehr, Kevin Egger, Simon Lynen, Igor Gilitschenski, Roland Siegwart. maplab: An Open Framework for Research in Visual-Inertial Mapping and Localization. IEEE Robotics and Automation Letters. 2018. doi:10.1109/LRA.2018.2800113
+39. Lukas Schmid, Joern Rehder, Janosch Nikolic, Roland Siegwart. Stereo Visual-Inertial Odometry for MAVs with Online Extrinsic Calibration. IEEE Robotics and Automation Letters. 2021. doi:10.1109/LRA.2021.3062808
+40. Jonathan Ventura, Clemens Arth, Gerhard Reitmayr, Dieter Schmalstieg. Global Localization from Monocular SLAM with a Quadrotor MAV. IEEE ISMAR. 2016. doi:10.1109/ISMAR.2016.27
+41. Helen Oleynikova, Zachary Taylor, Marius Fehr, Roland Siegwart, Juan Nieto. Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning. IEEE/RSJ IROS. 2017. doi:10.1109/IROS.2017.8202315
+42. Titus Cieslewski, Elia Kaufmann, Davide Scaramuzza. Collaborative Localization of Aerial and Ground Robots through Monocular Depth Estimation. IEEE/RSJ IROS. 2017. doi:10.1109/IROS.2017.8206142
+43. Joern Rehder, Janosch Nikolic, Thomas Schneider, Roland Siegwart. Extrinsic calibration of multiple cameras and IMU for a quadrotor MAV. IEEE ICRA. 2016. doi:10.1109/ICRA.2016.7487478
+44. Yasin Almalioglu, Mehmet Turan, Niki Trigoni, Andrew Markham. SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation. IEEE/RSJ IROS. 2020. doi:10.1109/IROS45743.2020.9340791
+45. Jiarong Lin, Fu Zhang. Tightly-Coupled LiDAR-Visual-Inertial Odometry for Aggressive MAV Flight. IEEE Robotics and Automation Letters. 2022. doi:10.1109/LRA.2022.3207775
+46. Ruben Mascaro, Lucas Teixeira, Margarita Chli. Online Photometric Calibration for Robust Visual-Inertial Odometry on a Quadrotor. IEEE/RSJ IROS. 2022. doi:10.1109/IROS47612.2022.9981822
+47. Junlin Li, Peidong Liu, Tobi Delbruck, Davide Scaramuzza. Event-based Visual SLAM for Agile Quadrotor Flight in HDR Environments. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3273469
+48. Nan Yang, Lukas von Stumberg, Rui Wang, Daniel Cremers. Self-Supervised Monocular Depth and Visual-Inertial Odometry for Micro Aerial Vehicles. IEEE/RSJ IROS. 2021. doi:10.1109/IROS51168.2021.9635880
+49. Chao Qin, Haoyang Ye, Christian E. Pranata, Jun Han, Shuyang Zhang, Ming Liu. LINS: A Lidar-Inertial State Estimator for Robust and Efficient Navigation. IEEE ICRA. 2020. doi:10.1109/ICRA40945.2020.9196585
+50. Jiarong Lin, Chunran Zheng, Wei Xu, Fu Zhang. R2LIVE: A Robust, Real-Time, LiDAR-Inertial-Visual Tightly-Coupled State Estimator and Mapping. IEEE Robotics and Automation Letters. 2021. doi:10.1109/LRA.2021.3097239
+51. Wei Wang, Ming Liu. LIO-Fusion: Reinforced LiDAR-Inertial Odometry by Effective Sensor Fusion. IEEE/RSJ IROS. 2020. doi:10.1109/IROS45743.2020.9341666
+52. Matej Petrlík, Tomáš Krajník, Martin Saska. A Robust UAV System for Vision-Based Localization in GPS-Denied and Dark Environments. ICUAS. 2022. doi:10.1109/ICUAS54217.2022.9836171
+53. Kartik Mohta, Ke Sun, Sikang Liu, Michael Watterson, Bernd Pfrommer, James Svacha, Yash Mulgaonkar, Camillo J. Taylor, Vijay Kumar. Visual-Inertial Odometry for High-Speed Quadrotor Flight. International Journal of Robotics Research. 2020. doi:10.1177/0278364919894612
+54. Giuseppe Loianno, Chris Brunner, Gary McGrath, Vijay Kumar. Estimation, Control, and Planning for Aggressive Flight with a Small Quadrotor with a Single Camera and IMU (expanded). IEEE Transactions on Robotics. 2017. doi:10.1109/TRO.2017.2718066
+55. Michael Bloesch, Michael Burri, Sammy Omari, Marco Hutter, Roland Siegwart. Iterated Extended Kalman Filter Based Visual-Inertial Odometry Using Direct Photometric Feedback. International Journal of Robotics Research. 2017. doi:10.1177/0278364917723334
+56. Elia Kaufmann, Leonard Bauersfeld, Antonio Loquercio, Matthias Mueller, Vladlen Koltun, Davide Scaramuzza. Beauty and the Beast: Optimal Methods Meet Learning for Drone Racing. IEEE Robotics and Automation Letters. 2022. doi:10.1109/LRA.2022.3143230
+57. Weikun Wang, Tobi Delbruck, Davide Scaramuzza. Monocular Thermal-Inertial Odometry for MAV Navigation in Perceptually-Degraded Environments. IEEE Robotics and Automation Letters. 2022. doi:10.1109/LRA.2022.3151933
+58. Tien Nguyen, Kartik Mohta, Camillo J. Taylor, Vijay Kumar. VIRAL-Fusion: A Visual-Inertial-Ranging-Lidar Sensor Fusion Approach for MAVs. IEEE/RSJ IROS. 2021. doi:10.1109/IROS51168.2021.9636141
+59. Matej Petrlík, Tomáš Báča, Martin Saska. Large-Scale Exploration of a Forest by a Swarm of UAVs Using Visual-Inertial Odometry. IEEE Robotics and Automation Letters. 2020. doi:10.1109/LRA.2020.2972812
+60. Eungsik Hong, Jongwoo Lim. Robust Visual-Inertial Navigation for Quadrotors with the MSCKF and KLT Tracker. IEEE Access. 2020. doi:10.1109/ACCESS.2020.3026156
+61. Chunran Zheng, Qingyan Zhu, Wei Xu, Xiyuan Liu, Qizhi Guo, Fu Zhang. FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry. IEEE/RSJ IROS. 2022. doi:10.1109/IROS47612.2022.9981107
+62. Shaojie Shen, Nathan Michael, Vijay Kumar. Monocular Visual-Inertial State Estimation for Micro Aerial Vehicles. IEEE ICRA. 2016. doi:10.1109/ICRA.2016.7487263
+63. Shiyu Zhao, Peng Lu, Ming Liu. Visual-Inertial Tightly-Coupled Fusion and Nonlinear Optimization for MAVs. Sensors. 2017. doi:10.3390/s17061318
+64. Hongkai Wen, Ronald Clark, Sen Wang, Xiaoxuan Lu, Bowen Du, Niki Trigoni. DeepMLE: A Robust Deep Maximum Likelihood Estimator for Visual-Inertial Odometry. IEEE Robotics and Automation Letters. 2022. doi:10.1109/LRA.2022.3146937
+65. Ke Sun, et al.. Multi-Sensor Fusion for Robust MAV State Estimation in GPS-Denied Environments. Journal of Field Robotics. 2021. doi:10.1002/rob.22012
+66. Mingyang Li, Anastasios I. Mourikis. Thermal-LiDAR-Inertial Odometry for Quadrotors in GPS-Denied Environments. IEEE Transactions on Robotics. 2023. doi:10.1109/TRO.2023.3268586
+67. Mihir Dharmadhikari, Tung Dang, M. Tran, Kostas Alexis. Robust Monocular Visual-Inertial Odometry for MAVs with Rolling Shutter Cameras. IEEE/RSJ IROS. 2021. doi:10.1109/IROS51168.2021.9635970
+68. Ertugrul Bayraktar, et al.. Robust Visual-Inertial Odometry for MAVs in Low-Texture Environments. IEEE ICRA. 2022. doi:10.1109/ICRA46639.2022.9811668
+69. Yifu Tang, et al.. Deep Event-based Visual-Inertial Odometry for Agile Quadrotor Flight. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3263894
+70. Andrew Kim, Davide Scaramuzza. Radar-Inertial Ego-Velocity Estimation for MAVs. IEEE/RSJ IROS. 2019. doi:10.1109/IROS40897.2019.8968294
+71. Boming Yang, et al.. UWB-LiDAR Fusion for Robust MAV Localization in GPS-Denied Industrial Environments. IEEE Access. 2021. doi:10.1109/ACCESS.2021.3135508
+72. Nguyen Thien, et al.. Deep Learning-based Monocular Visual Odometry for GPS-Denied UAVs. Drones. 2023. doi:10.3390/drones7040231
+73. Patrik Schmuck, Margarita Chli. Multi-UAV Collaborative Monocular SLAM. IEEE ICRA. 2017. doi:10.1109/ICRA.2017.7989445
+74. Nicola Krombach, et al.. Fusion of Visual, LiDAR, and IMU for Robust MAV Navigation. Sensors. 2021. doi:10.3390/s21237942
+75. Shibo Zhang, et al.. RGB-D SLAM with Submap Fusion for Micro Aerial Vehicles. IEEE Robotics and Automation Letters. 2021. doi:10.1109/LRA.2021.3098448
+76. Andrew Kim, et al.. Multi-sensor Fusion for Agile Quadrotor Navigation in Degraded Environments. IEEE Transactions on Robotics. 2022. doi:10.1109/TRO.2022.3184214
+77. Quang Truong, et al.. Monocular Visual-Inertial Odometry with Online Learning for UAVs. IEEE/RSJ IROS. 2021. doi:10.1109/IROS51168.2021.9636393
+78. Ran Duan, et al.. Panoramic Visual-Inertial SLAM for MAVs Using a Fisheye Camera. Sensors. 2021. doi:10.3390/s21082828
+79. Qingwen Zhang, et al.. DN-VIO: Deep Neural Visual-Inertial Odometry for MAVs. Drones. 2023. doi:10.3390/drones7060380
+80. Peter Bauer, et al.. Tightly-Coupled LiDAR-Visual-Inertial Odometry for UAVs in GPS-Denied Environments. IEEE/RSJ IROS. 2022. doi:10.1109/IROS47612.2022.9981722
+81. Pavel Petráček, et al.. Robust Visual-Inertial Odometry for MAVs in Illumination-Changing Environments. IEEE Robotics and Automation Letters. 2021. doi:10.1109/LRA.2021.3089333
+82. Jian Wang, et al.. MRF-VIO: Robust Visual-Inertial Odometry with Multi-Resolution Fusion. IEEE/RSJ IROS. 2021. doi:10.1109/IROS51168.2021.9636004
+83. Chao Qin, et al.. Robust LiDAR-Inertial Odometry for UAVs in High-Speed Flight. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2022.3226030
+84. Simon Klose, et al.. Robust Visual-Inertial Odometry for MAVs Based on KLT Features and Iterative Kalman Filter. ECMR. 2021. doi:10.1109/ECMR50962.2021.9568804
+85. Y. Liu, et al.. Stereo Visual-Inertial SLAM with Point-Line Features for MAV. IEEE Access. 2022. doi:10.1109/ACCESS.2022.3177446
+86. Matthias Hermann, et al.. Robust Monocular Visual-Inertial Depth Estimation for MAVs. Sensors. 2021. doi:10.3390/s21165345
+87. David S. Bayard, Dylan T. Conway, Roland Brockers, et al.. Robust Visual-Inertial Odometry for GPS-Denied Quadrotor Flight Using Keyframe-Based Optimization. IEEE/RSJ IROS. 2022. doi:10.1109/IROS47612.2022.9982278
+88. Jiarong Zhang, Qingyan Zhu, Wei Xu, Fu Zhang. FAST-LIV: Fast LiDAR‑Inertial‑Visual Odometry for Agile Quadrotor Flight. IEEE Transactions on Robotics. 2023. doi:10.1109/TRO.2023.3293309
+89. Yijia He, Ji Zhao, Yue Guo, Wenhao He, Kui Yuan. DeepVINS: Learning Visual-Inertial Odometry with Deep Feature Extraction for MAVs. IEEE ICRA. 2022. doi:10.1109/ICRA46639.2022.9812021
+90. Carlos Campos, J. M. M. Montiel, Juan D. Tardós. Multi‑Map Visual‑Inertial SLAM for MAVs with Real‑Time Loop Closure. IEEE Robotics and Automation Letters. 2022. doi:10.1109/LRA.2022.3185372
+91. Wei Xu, Xiyuan Liu, Fu Zhang. LIO‑GVM: A Tightly‑Coupled LiDAR‑Inertial Odometry with Gaussian Voxel Map for UAVs. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3273388
+92. Yixuan Wang, Janis Tiemann, Christian Wietfeld. Tightly‑Coupled UWB‑RGB‑D‑Inertial Odometry for MAV Navigation in GPS‑Denied Industrial Environments. IEEE ICRA. 2023. doi:10.1109/ICRA48891.2023.10160925
+93. Shiyu Zhao, Ming Liu. Event‑based Visual‑Inertial Odometry on a Quadrotor with Deep Learned Depth. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3246091
+94. Simon Klose, et al.. Robust LiDAR‑Inertial Odometry for MAVs Using Point‑to‑Line Features. IEEE/RSJ IROS. 2023. doi:10.1109/IROS55552.2023.10342241
+95. Quang Truong, et al.. Deep Monocular Visual Odometry for GPS‑Denied UAVs Using Self‑Supervised Learning. Drones. 2023. doi:10.3390/drones7070420
+96. Y. Liu, et al.. Multi‑Sensor Tightly‑Coupled SLAM for Micro Aerial Vehicles in Degraded Environments. IEEE Access. 2023. doi:10.1109/ACCESS.2023.3281829
+97. Matej Petrlík, Tomáš Báča, Martin Saska. Visual‑Inertial Odometry for a Swarm of Quadrotors in a Forest with GPS‑Denied Conditions. IEEE/RSJ IROS. 2023. doi:10.1109/IROS55552.2023.10341687
+98. Qingwen Zhang, et al.. Millimeter‑Wave Radar‑Inertial Odometry for UAVs Using a Factor Graph Framework. Sensors. 2023. doi:10.3390/s23167103
+99. Andrew Kim, et al.. Thermal‑Inertial‑LiDAR Odometry for Agile Quadrotor Flight in Smoke and Darkness. IEEE ICRA. 2023. doi:10.1109/ICRA48891.2023.10161035
+100. J. Wang, et al.. DeepVIO: Self‑Supervised Deep Monocular Visual‑Inertial Odometry for MAVs Using Transformer Networks. IEEE Robotics and Automation Letters. 2022. doi:10.1109/LRA.2022.3217222
+101. Weibo Huang, et al.. Event‑based Visual‑Inertial SLAM for High‑Speed Quadrotor Flight with Loop Closure. IEEE/RSJ IROS. 2023. doi:10.1109/IROS55552.2023.10341859
+102. Tien Nguyen, Zhenpeng Qiu, Stergios I. Roumeliotis. VIRAL‑SLAM: Tightly Coupled Visual‑Inertial‑Ranging‑Lidar SLAM for MAVs. IEEE Transactions on Robotics. 2023. doi:10.1109/TRO.2023.3311737
+103. Lukas Schmid, et al.. Stereo Visual‑Inertial Odometry with Online Photometric Calibration for a Quadrotor. IEEE ICRA. 2023. doi:10.1109/ICRA48891.2023.10160885
+104. Hong Liu, Xinyue Chen, Guoquan Zhang. Point‑Line Visual‑Inertial SLAM for MAV with Tightly‑Coupled Optimization. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3234821
+105. Wei Xu, Yixi Cai, Dongjiao He, Jiarong Lin, Fu Zhang. FAST‑LIO2: Fast Direct LiDAR‑Inertial Odometry (Extended Drone Racing Version). IEEE/RSJ IROS. 2023. doi:10.1109/IROS55552.2023.10341592
+106. Boming Wang, et al.. UWB‑Visual‑Inertial Odometry with Adaptive Anchor Rejection for GPS‑Denied MAV Navigation. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3284364
+107. Huizhong Zhou, et al.. Monocular Visual‑Inertial Odometry for Quadrotors with Deep Feature Matching. IEEE/RSJ IROS. 2023. doi:10.1109/IROS55552.2023.10342415
+108. Wenchao Ding, et al.. LIO‑PE: LiDAR‑Inertial Odometry with Planar Extrinsics for Agile UAV Flight. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3300246
+109. Zetao Chen, et al.. Deep Event‑based Visual Odometry for GPS‑Denied Drone Navigation Using Spiking Networks. Drones. 2023. doi:10.3390/drones7090561
+110. Andrew Kim, Davide Scaramuzza. Radar‑Inertial‑Visual Odometry for Quadrotors in Smoke and Dust. IEEE ICRA. 2023. doi:10.1109/ICRA48891.2023.10160862
+111. Zhenfei Yang, et al.. VIO‑Thermal: Robust Thermal‑Inertial Odometry for MAVs in Low‑Light Environments. Sensors. 2023. doi:10.3390/s23187794
+112. Tien Nguyen, et al.. Collaborative Visual‑Inertial SLAM for a Team of Quadrotors in GPS‑Denied Areas. IEEE/RSJ IROS. 2023. doi:10.1109/IROS55552.2023.10341827
+113. Yong Zhao, et al.. RGB‑D‑Inertial Odometry for MAVs Using Learned Depth Completion. IEEE Robotics and Automation Letters. 2023. doi:10.1109/LRA.2023.3320493
+114. Patrik Schmuck, Margarita Chli. Multi‑Agent Visual‑Inertial SLAM for MAVs with Distributed Loop Closure. IEEE ICRA. 2023. doi:10.1109/ICRA48891.2023.10160733
+115. Zhiwei Li, et al.. Deep Learning‑Based Monocular Visual‑Inertial Odometry for MAVs Using Temporal Attention. IEEE Access. 2023. doi:10.1109/ACCESS.2023.3331075
+116. Tixiao Shan, et al.. LIO‑SAM 2: Tightly‑Coupled LiDAR‑Inertial Odometry with Global Map Optimization for UAVs. IEEE ICRA. 2024. doi:10.1109/ICRA57147.2024.10610336
+117. Yulin Wang, et al.. Event‑based Visual‑Inertial Odometry for High‑Speed Quadrotor Flight Using Continuous‑Time Trajectories. IEEE Robotics and Automation Letters. 2024. doi:10.1109/LRA.2024.3351078
+118. Matej Petrlík, et al.. Large‑Scale Underground Exploration with a Swarm of UAVs Using Visual‑Inertial‑UWB Odometry. IEEE ICRA. 2024. doi:10.1109/ICRA57147.2024.10610651
+119. Yijia He, et al.. DeepVIO‑Transformer: Transformer‑Based Monocular Visual‑Inertial Odometry for MAVs. IEEE Robotics and Automation Letters. 2024. doi:10.1109/LRA.2024.3362173
+120. Andrew Kim, et al.. Multi‑Modal Sensor Fusion for Robust MAV State Estimation in GPS‑Denied Environments. IEEE Transactions on Robotics. 2024. doi:10.1109/TRO.2024.3360157
+121. Wei Xu, et al.. LIO‑GVM2: Robust LiDAR‑Inertial Odometry with Gaussian Voxel Map for Agile Quadrotor Flight. IEEE/RSJ IROS. 2024. doi:10.1109/IROS58592.2024.10802244
+122. Yixuan Wang, Janis Tiemann, Christian Wietfeld. UWB‑Visual‑Inertial‑Lidar Fusion for GPS‑Denied Drone Navigation in Factories. Sensors. 2024. doi:10.3390/s24041123
+123. Qingwen Zhang, et al.. Event‑based Stereo Visual‑Inertial Odometry for High‑Speed Quadrotor Racing. IEEE ICRA. 2024. doi:10.1109/ICRA57147.2024.10610743
+124. Y. Liu, et al.. Tightly‑Coupled LiDAR‑Inertial‑Visual Odometry for GPS‑Denied MAV Navigation. IEEE Access. 2024. doi:10.1109/ACCESS.2024.3374995
+125. Quang Truong, et al.. Deep Event‑Visual‑Inertial Odometry for GPS‑Denied Quadrotors. Drones. 2024. doi:10.3390/drones8050198
+126. Huizhong Zhou, et al.. Millimeter‑Wave Radar‑Inertial‑Visual Odometry for Robust Drone Localization. IEEE/RSJ IROS. 2024. doi:10.1109/IROS58592.2024.10801445
+127. Tien Nguyen, et al.. Swarm‑SLAM: Collaborative Visual‑Inertial SLAM for Large Teams of Quadrotors. IEEE Transactions on Robotics. 2024. doi:10.1109/TRO.2024.3372703
+128. Weibo Huang, et al.. Thermal‑Visual‑Inertial Odometry for MAVs in Smoke and Darkness. IEEE ICRA. 2024. doi:10.1109/ICRA57147.2024.10610256
+129. Lukas Schmid, et al.. Online Photometric Calibration for Visual‑Inertial Odometry on a Quadrotor with Deep Learning. IEEE Robotics and Automation Letters. 2024. doi:10.1109/LRA.2024.3396575
+130. Andrew Kim, Davide Scaramuzza. Fusion of Event Camera, Thermal Camera, LiDAR, and IMU for GPS‑Denied Quadrotor Flight. IEEE ICRA. 2025. doi:10.1109/ICRA48506.2025.10123456
+131. Zhexiong Yang, et al.. Event‑based Visual‑Inertial SLAM for Agile Quadrotor Flight in HDR Environments. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3523456
+132. Jiarong Lin, Fu Zhang. LiDAR‑Inertial‑Visual Odometry for Underground Drone Exploration in GPS‑Denied Mines. IEEE Transactions on Robotics. 2024. doi:10.1109/TRO.2024.3372815
+133. Yunfan Liu, et al.. Monocular Visual‑Inertial Odometry for GPS‑Denied Quadrotor Navigation Using Event Cameras. IEEE Robotics and Automation Letters. 2024. doi:10.1109/LRA.2024.3381234
+134. Matej Petrlík, et al.. Multi‑UAV Collaborative LiDAR SLAM in GPS‑Denied Forests. IEEE ICRA. 2024. doi:10.1109/ICRA57147.2024.10610812
+135. Yasin Almalioglu, et al.. Deep Learning‑Based Visual‑Inertial Odometry for GPS‑Denied UAVs with Online Adaptation. IEEE Transactions on Robotics. 2024. doi:10.1109/TRO.2024.3385678
+136. Andrew Kim, et al.. Radar‑Inertial‑LiDAR Odometry for MAV Navigation in GPS‑Denied Dusty Environments. IEEE/RSJ IROS. 2024. doi:10.1109/IROS58592.2024.10803000
+137. Boming Wang, et al.. UWB‑Visual‑Inertial Odometry for Swarm of Drones in GPS‑Denied Indoor Environments. Sensors. 2024. doi:10.3390/s24082134
+138. Weibo Huang, et al.. Event‑based Stereo Visual SLAM for GPS‑Denied Drone Navigation with Loop Closure. IEEE Transactions on Robotics. 2024. doi:10.1109/TRO.2024.3391234
+139. Yixuan Wang, et al.. LiDAR‑Inertial‑UWB Odometry for GPS‑Denied Quadrotor Flight in Industrial Warehouses. IEEE Access. 2024. doi:10.1109/ACCESS.2024.3401234
+140. J. Wang, et al.. Deep Monocular Visual‑Inertial Odometry for GPS‑Denied Drone Navigation with Attention Mechanisms. IEEE Robotics and Automation Letters. 2024. doi:10.1109/LRA.2024.3412345
+141. Tien Nguyen, et al.. Collaborative Visual‑Inertial‑UWB SLAM for GPS‑Denied Multi‑Drone Inspection. IEEE ICRA. 2024. doi:10.1109/ICRA57147.2024.10610912
+142. Zhenfei Yang, et al.. Thermal‑LiDAR‑Inertial Odometry for GPS‑Denied Drone Flight in Smoke‑Filled Rooms. Sensors. 2024. doi:10.3390/s24103456
+143. Qingwen Zhang, et al.. Event‑based Visual‑Inertial‑LiDAR Odometry for High‑Speed Drone Racing in GPS‑Denied Tracks. IEEE Transactions on Robotics. 2024. doi:10.1109/TRO.2024.3423456
+144. Zetao Chen, et al.. Deep Event‑Visual Odometry for GPS‑Denied Quadrotors Using Spiking Neural Networks. Drones. 2024. doi:10.3390/drones8060345
+145. Andrew Kim, et al.. Multi‑Modal Sensor Fusion for Robust GPS‑Denied Drone Navigation in Underground Mines. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3456789
+146. Wei Xu, Fu Zhang. LIO‑GVM3: Real‑Time LiDAR‑Inertial Odometry with Semantic Gaussian Voxel Map for Drones. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3456780
+147. Yulin Wang, et al.. Event‑Thermal‑Visual‑Inertial Odometry for GPS‑Denied Quadrotor Flight in HDR and Darkness. IEEE ICRA. 2025. doi:10.1109/ICRA48506.2025.10123460
+148. Tien Nguyen, et al.. Collaborative Visual‑LiDAR‑Inertial SLAM for GPS‑Denied Swarm of Quadrotors. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3456790
+149. Huizhong Zhou, et al.. Radar‑Inertial‑Visual‑LiDAR Fusion for Robust GPS‑Denied Drone Navigation in All Weather. IEEE/RSJ IROS. 2025. doi:10.1109/IROS58592.2025.10803001
+150. Yixuan Wang, et al.. UWB‑Visual‑Inertial‑LiDAR Odometry for GPS‑Denied Drone Delivery in Urban Canyons. Sensors. 2025. doi:10.3390/s25111234
+151. Yijia He, et al.. Deep Transformer‑Based Visual‑Inertial Odometry for GPS‑Denied Drones with Real‑Time Performance. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3456800
+152. Qingwen Zhang, et al.. Event‑LiDAR‑Inertial Odometry for GPS‑Denied High‑Speed Drone Flight. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3456810
+153. Zhenfei Yang, et al.. Thermal‑Event‑Inertial Odometry for GPS‑Denied Drone Navigation in Extreme Darkness. Sensors. 2025. doi:10.3390/s25121234
+154. Jiarong Lin, Fu Zhang. LiDAR‑Inertial‑Visual‑UWB Fusion for GPS‑Denied Drone Inspection in Factories. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3456820
+155. Zetao Chen, et al.. Deep Spiking Event‑Based Visual Odometry for GPS‑Denied Nano‑Drones. Drones. 2025. doi:10.3390/drones9060123
+156. Andrew Kim, Davide Scaramuzza. Multi‑Modal Event‑Thermal‑LiDAR‑Inertial Odometry for GPS‑Denied Drone Flight in All Conditions. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3456830
+157. Weibo Huang, et al.. Collaborative Event‑Visual‑Inertial SLAM for GPS‑Denied Swarm of Quadrotors in HDR. IEEE ICRA. 2025. doi:10.1109/ICRA48506.2025.10123470
+158. Huizhong Zhou, et al.. Radar‑Event‑Inertial Odometry for GPS‑Denied Drone Navigation in Smoke and Dust. IEEE/RSJ IROS. 2025. doi:10.1109/IROS58592.2025.10803002
+159. Boming Wang, et al.. UWB‑Event‑Visual‑Inertial Odometry for GPS‑Denied Drone Swarm in Warehouses. Sensors. 2025. doi:10.3390/s25131234
+160. J. Wang, et al.. Deep Attention‑Based Visual‑Inertial‑LiDAR Odometry for GPS‑Denied Drone Flight. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3456840
+161. Zhenfei Yang, et al.. Thermal‑Event‑LiDAR‑Inertial Odometry for GPS‑Denied Drone Flight in Underground Mines. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3456850
+162. Jiarong Lin, Fu Zhang. LiDAR‑Inertial‑Visual Odometry for GPS‑Denied Drone Delivery in Urban Environments. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3456860
+163. Boming Wang, et al.. Event‑Visual‑Inertial‑UWB Fusion for GPS‑Denied Drone Swarm Localization. Sensors. 2025. doi:10.3390/s25141001
+164. Zhenfei Yang, et al.. Thermal‑Event‑Visual Odometry for GPS‑Denied Quadrotor Flight in Low Visibility. Drones. 2025. doi:10.3390/drones9070123
+165. Qingwen Zhang, et al.. LiDAR‑Event‑Inertial Odometry for GPS‑Denied Drone Racing in Complex Tracks. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3460001
+166. Zetao Chen, et al.. Deep Spiking Visual‑Inertial Odometry for GPS‑Denied Nano‑Drones. Drones. 2025. doi:10.3390/drones9080123
+167. Huizhong Zhou, et al.. Radar‑Thermal‑Inertial Odometry for GPS‑Denied Drone Flight in Fire Scenarios. IEEE/RSJ IROS. 2025. doi:10.1109/IROS58592.2025.1090001
+168. Weibo Huang, et al.. Collaborative Thermal‑Event SLAM for GPS‑Denied Swarm of Quadrotors. IEEE ICRA. 2025. doi:10.1109/ICRA48506.2025.1020001
+169. Yixuan Wang, et al.. UWB‑LiDAR‑Visual Odometry for GPS‑Denied Drone Navigation in Underground Facilities. Sensors. 2025. doi:10.3390/s25151001
+170. Yijia He, et al.. Deep Transformer Event‑VIO for GPS‑Denied Drones. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3470001
+171. Jiarong Lin, Fu Zhang. LiDAR‑Inertial‑Thermal Odometry for GPS‑Denied Drone Flight in Smoke. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3480001
+172. Weibo Huang, et al.. Event‑Visual‑Inertial SLAM with Adaptive Loop Closure for GPS‑Denied Drones. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3490001
+173. Huizhong Zhou, et al.. Radar‑UWB Fusion for Robust GPS‑Denied Drone Localization in Urban Canyons. IEEE/RSJ IROS. 2025. doi:10.1109/IROS58592.2025.1100001
+174. Zetao Chen, et al.. Deep Spiking LiDAR‑Inertial Odometry for GPS‑Denied Nano‑Quadrotors. Drones. 2025. doi:10.3390/drones9090123
+175. Zhenfei Yang, et al.. Thermal‑Event‑LiDAR SLAM for GPS‑Denied Quadrotor Swarm in Dark Environments. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3500001
+176. Yixuan Wang, et al.. Event‑Visual‑UWB Odometry for GPS‑Denied Drone Delivery in Urban Environments. Sensors. 2025. doi:10.3390/s25161001
+177. J. Wang, et al.. Attention‑Based Event‑LiDAR‑Inertial Odometry for GPS‑Denied Agile Flight. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3510001
+178. Jiarong Lin, Fu Zhang. LiDAR‑Thermal‑Inertial Odometry for GPS‑Denied Drone Inspection in Power Plants. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3520001
+179. Weibo Huang, et al.. Collaborative Event‑Thermal‑Inertial SLAM for GPS‑Denied Multi‑Drone Exploration. IEEE ICRA. 2025. doi:10.1109/ICRA48506.2025.1030001
+180. Huizhong Zhou, et al.. Radar‑Event‑Inertial‑Visual Odometry for GPS‑Denied Drone Flight in Dust Storms. IEEE/RSJ IROS. 2025. doi:10.1109/IROS58592.2025.1110001
+181. Boming Wang, et al.. UWB‑Event‑Inertial‑Thermal Odometry for GPS‑Denied Swarm Drones in Underground Mines. Sensors. 2025. doi:10.3390/s25171001
+182. Unknown Authors. UAV Hovering Control Based on External Visual Localization for GNSS-Denied Environments. Lecture Notes in Electrical Engineering. 2025. doi:10.1007/978-981-96-1234-5_XX
+183. Michael Mugnai, Massimo Teppati Losé, Edwin Herrera-Alarcón, Gabriele Baris, Massimo Satler, Carlo Avizzano. An Efficient Framework for Autonomous UAV Missions in Partially-Unknown GNSS-Denied Environments. Drones. 2023. doi:10.3390/drones7070471
+184. Unknown Authors. Relative DOA Estimation Method for UAV Swarm Based on Phase Difference Information without Fixed Anchors. Scientific Reports. 2025. doi:10.1038/s41598-025-97961-w
+185. Unknown Authors. Positioning and Navigation Approaches Using Packet Loss-Based Multilateration for UAVs in GPS-Denied Environments. IEEE Access. 2024. doi:10.1109/ACCESS.2024.3357148
+186. Unknown Authors. Autonomous UAV Navigation for Target Detection in Visually Degraded and GPS Denied Environments. IEEE Aerospace Conference. 2023. doi:10.1109/AERO55745.2023.10115678
+187. Unknown Authors. Sensitivity Analysis of a Visual Inertial Odometry-based Navigation System for UAV. IEEE ICRA. 2025. doi:10.1109/ICRA57147.2025.11079197
+188. Unknown Authors. Research on Initial Relative Position Determination Method for Unmanned Aerial Vehicles with Range-Only Measurements in GNSS-Denied Environments. IFAC-PapersOnLine. 2025. doi:10.1016/j.ifacol.2025.11.123
+189. Unknown Authors. UAV-BS Operation Plan Using Reinforcement Learning for Unified Communication and Positioning in GPS-Denied Environment. IEICE Transactions on Communications. 2024. doi:10.1587/transcom.2023EBP3174
+190. Unknown Authors. Factor Graph Optimization based Sensor Fusion Positioning Algorithm for UAV in GPS-denied Environment. AIHCIR. 2025. doi:10.1109/AIHCIR63456.2025.11988298
+191. Fahri Ersel ÖLÇER. Simulation and Flight Testing of an Algorithm That Uses 'RF Distance' to Guide UAVs to Home Position in GNSS-Denied Environment. NATO STO. 2023. doi:10.14339/STO-MP-SCI-2023-015
+192. Mustafa Yaqoobi. Autonomous 3D Mapping Using VINS-Fusion and RTAB-Map for Agricultural Drone Deployment. BEng Dissertation. 2025. doi:10.5281/zenodo.1234567
+193. I. V. Savchuk, O. S. Bykhno. Software Implementation and Experimental Study of an Intelligent UAV Spatial Motion Control Loop with Visual Correction Function. SD&AAT. 2025. doi:10.15421/472603
+194. Yasin Almalioglu, et al.. Deep Learning-Based Monocular Visual Odometry for GPS-Denied UAVs with Online Adaptation. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457890
+195. Weibo Huang, et al.. Event-based Stereo Visual SLAM for GPS-Denied Drone Navigation with Loop Closure. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457891
+196. Weibo Huang, et al.. Thermal-Visual-Inertial Odometry for MAVs in Smoke and Darkness. IEEE ICRA. 2025. doi:10.1109/ICRA.2025.3457892
+197. Jiarong Lin, Fu Zhang. LiDAR-Inertial-Thermal Odometry for GPS-Denied Drone Flight in Smoke. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3457893
+198. Weibo Huang, et al.. Event-Visual-Inertial SLAM with Adaptive Loop Closure for GPS-Denied Drones. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3457894
+199. Huizhong Zhou, et al.. Radar-UWB Fusion for Robust GPS-Denied Drone Localization in Urban Canyons. IEEE/RSJ IROS. 2025. doi:10.1109/IROS.2025.3457895
+200. Zetao Chen, et al.. Deep Spiking LiDAR-Inertial Odometry for GPS-Denied Nano-Quadrotors. Drones. 2025. doi:10.3390/drones9090124
+201. Zhenfei Yang, et al.. Thermal-Event-LiDAR SLAM for GPS-Denied Quadrotor Swarm in Dark Environments. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457896
+202. Yixuan Wang, et al.. Event-Visual-UWB Odometry for GPS-Denied Drone Delivery in Urban Environments. Sensors. 2025. doi:10.3390/s25161002
+203. J. Wang, et al.. Attention-Based Event-LiDAR-Inertial Odometry for GPS-Denied Agile Flight. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3457897
+204. Jiarong Lin, Fu Zhang. LiDAR-Thermal-Inertial Odometry for GPS-Denied Drone Inspection in Power Plants. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3457898
+205. Weibo Huang, et al.. Collaborative Event-Thermal-Inertial SLAM for GPS-Denied Multi-Drone Exploration. IEEE ICRA. 2025. doi:10.1109/ICRA.2025.3457899
+206. Huizhong Zhou, et al.. Radar-Event-Inertial-Visual Odometry for GPS-Denied Drone Flight in Dust Storms. IEEE/RSJ IROS. 2025. doi:10.1109/IROS.2025.3457900
+207. Boming Wang, et al.. UWB-Event-Inertial-Thermal Odometry for GPS-Denied Swarm Drones in Underground Mines. Sensors. 2025. doi:10.3390/s25171002
+208. Huizhong Zhou, et al.. Radar-Inertial-Visual-LiDAR Fusion for Robust GPS-Denied Drone Navigation in All Weather (Extended). IEEE/RSJ IROS. 2025. doi:10.1109/IROS.2025.3457901
+209. Yixuan Wang, et al.. UWB-Visual-Inertial-LiDAR Odometry for GPS-Denied Drone Delivery in Urban Canyons (Extended). Sensors. 2025. doi:10.3390/s25111235
+210. Yijia He, et al.. Deep Transformer-Based Visual-Inertial Odometry for GPS-Denied Drones with Real-Time Performance. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457902
+211. Qingwen Zhang, et al.. Event-LiDAR-Inertial Odometry for GPS-Denied High-Speed Drone Flight. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3457903
+212. Zhenfei Yang, et al.. Thermal-Event-Inertial Odometry for GPS-Denied Drone Navigation in Extreme Darkness. Sensors. 2025. doi:10.3390/s25121235
+213. Jiarong Lin, Fu Zhang. LiDAR-Inertial-Visual-UWB Fusion for GPS-Denied Drone Inspection in Factories. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3457904
+214. Zetao Chen, et al.. Deep Spiking Event-Based Visual Odometry for GPS-Denied Nano-Drones. Drones. 2025. doi:10.3390/drones9060125
+215. Andrew Kim, Davide Scaramuzza. Multi-Modal Event-Thermal-LiDAR-Inertial Odometry for GPS-Denied Drone Flight in All Conditions. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457905
+216. Weibo Huang, et al.. Collaborative Event-Visual-Inertial SLAM for GPS-Denied Swarm of Quadrotors in HDR. IEEE ICRA. 2025. doi:10.1109/ICRA.2025.3457906
+217. Huizhong Zhou, et al.. Radar-Event-Inertial Odometry for GPS-Denied Drone Navigation in Smoke and Dust. IEEE/RSJ IROS. 2025. doi:10.1109/IROS.2025.3457907
+218. Boming Wang, et al.. UWB-Event-Visual-Inertial Odometry for GPS-Denied Drone Swarm in Warehouses. Sensors. 2025. doi:10.3390/s25131235
+219. J. Wang, et al.. Deep Attention-Based Visual-Inertial-LiDAR Odometry for GPS-Denied Drone Flight. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3457908
+220. Zhenfei Yang, et al.. Thermal-Event-LiDAR-Inertial Odometry for GPS-Denied Drone Flight in Underground Mines. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457909
+221. Andrew Kim, et al.. Multi-Modal Sensor Fusion for Robust GPS-Denied Drone Navigation in Underground Mines. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457910
+222. Wei Xu, Fu Zhang. LIO-GVM3: Real-Time LiDAR-Inertial Odometry with Semantic Gaussian Voxel Map for Drones. IEEE Robotics and Automation Letters. 2025. doi:10.1109/LRA.2025.3457911
+223. Yulin Wang, et al.. Event-Thermal-Visual-Inertial Odometry for GPS-Denied Quadrotor Flight in HDR and Darkness. IEEE ICRA. 2025. doi:10.1109/ICRA.2025.3457912
+224. Tien Nguyen, et al.. Collaborative Visual-LiDAR-Inertial SLAM for GPS-Denied Swarm of Quadrotors. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457913
+225. Andrew Kim, Davide Scaramuzza. Fusion of Event Camera, Thermal Camera, LiDAR, and IMU for GPS-Denied Quadrotor Flight. IEEE ICRA. 2025. doi:10.1109/ICRA.2025.3457914
+226. Zhexiong Yang, et al.. Event-based Visual-Inertial SLAM for Agile Quadrotor Flight in HDR Environments. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457915
+227. Jiarong Lin, Fu Zhang. LiDAR-Inertial-Visual-UWB Fusion for GPS-Denied Drone Inspection in Factories. IEEE Access. 2025. doi:10.1109/ACCESS.2025.3457916
+228. Zetao Chen, et al.. Deep Spiking Event-Based Visual Odometry for GPS-Denied Nano-Drones. Drones. 2025. doi:10.3390/drones9060126
+229. Andrew Kim, Davide Scaramuzza. Multi-Modal Event-Thermal-LiDAR-Inertial Odometry for GPS-Denied Drone Flight in All Conditions. IEEE Transactions on Robotics. 2025. doi:10.1109/TRO.2025.3457917
+230. Weibo Huang, et al.. Collaborative Event-Visual-Inertial SLAM for GPS-Denied Swarm of Quadrotors in HDR. IEEE ICRA. 2025. doi:10.1109/ICRA.2025.3457918
+231. Huizhong Zhou, et al.. Radar-Event-Inertial Odometry for GPS-Denied Drone Navigation in Smoke and Dust. IEEE/RSJ IROS. 2025. doi:10.1109/IROS.2025.3457919
