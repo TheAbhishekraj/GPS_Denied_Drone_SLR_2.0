@@ -54,7 +54,7 @@ def main():
         
         env = os.environ.copy()
         env["PYTHONIOENCODING"] = "utf-8"
-        result = subprocess.run([sys.executable, str(script_path)], cwd=scripts_dir, capture_output=True, text=True, env=env)
+        result = subprocess.run([sys.executable, str(script_path)], cwd=root_dir, capture_output=True, text=True, env=env)
         
         if result.returncode != 0:
             print(f"❌ Error during execution of {script_name}:")
