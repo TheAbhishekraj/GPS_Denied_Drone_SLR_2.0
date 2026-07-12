@@ -52,7 +52,9 @@ def main():
         # Wait, if they have hardcoded relative paths like `../data/`, they must run from `analysis/scripts/`.
         # I'll run them from `analysis/scripts/` to be safe, but output the logs here.
         
-        result = subprocess.run([sys.executable, str(script_path)], cwd=scripts_dir, capture_output=True, text=True)
+        env = os.environ.copy()
+        env["PYTHONIOENCODING"] = "utf-8"
+        result = subprocess.run([sys.executable, str(script_path)], cwd=scripts_dir, capture_output=True, text=True, env=env)
         
         if result.returncode != 0:
             print(f"❌ Error during execution of {script_name}:")
