@@ -16,7 +16,7 @@ def main():
     print("=" * 60)
     
     # Ensure we run from the project root
-    root_dir = Path(__file__).resolve().parent.parent.parent
+    root_dir = Path(__file__).resolve().parent
     os.chdir(root_dir)
     print(f"📍 Working directory set to: {root_dir}")
 
